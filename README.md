@@ -1,4 +1,4 @@
-# polyomino-dataset
+# Polyomino Dataset
 
 A dataset of 1899 [polyomino](https://en.wikipedia.org/wiki/Polyomino) images. The dataset includes polyominos from 29 different classes.
 
